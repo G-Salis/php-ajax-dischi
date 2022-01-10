@@ -13,6 +13,7 @@ const app = new Vue({
 },
 
 
+
  methods:{
 
   getApi(){
